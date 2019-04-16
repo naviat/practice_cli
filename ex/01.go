@@ -1,4 +1,4 @@
-package Ex
+package ex
 
 import (
 	"github.com/urfave/cli"
