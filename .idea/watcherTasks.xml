@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="-set_exit_status $FilePath$" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="go" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="golint" />
+      <option name="output" value="$FilePath$" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="$PROJECT_DIR$/../workspace/Go/bin/golint" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="All Places" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="" />
+      <envs>
+        <env name="GOPATH" value="$PROJECT_DIR$/../workspace/Go" />
+        <env name="PATH" value="/Applications/Julia-1.1.app/Contents/Resources/julia/bin:/anaconda3/bin:/usr/local/opt/python/libexec/bin:/Users/tomochain/workspace/Go/bin:/Users/tomochain/.yarn/bin:/Users/tomochain/.config/yarn/global/node_modules/.bin:/Users/tomochain/perl5/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin:/opt/X11/bin" />
+        <env name="GOROOT" value="GOROOT" />
+      </envs>
+    </TaskOptions>
+  </component>
+</project>
