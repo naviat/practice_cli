@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/naviat/practice_cli/docker-sdk/container"
+	"./container"
 )
 
 func main()  {
